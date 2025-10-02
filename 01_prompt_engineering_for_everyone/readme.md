@@ -67,7 +67,7 @@ Here’s my rough prompt: [INSERT YOUR PROMPT HERE]
 
 Prompt engineering is the art and science of crafting instructions that guide AI language models to produce desired outputs. Think of it as learning to communicate effectively with AI systems to achieve specific goals.
 
-![](./image_generation/prompteng2.png)
+![](./prompteng2.png)
 
 **Why is it important?**
 - You don't need to be a programmer to use AI effectively
@@ -160,7 +160,7 @@ Master AI-powered PRD creation with the world's best product management tool. Le
 
 ## Understanding Large Language Models
 
-![](./image_generation/llm.png)
+![](./llm.png)
 
 ### How LLMs Work (The Basics)
 
@@ -204,7 +204,7 @@ Before diving into prompt techniques, understand these key parameters that contr
 
 ## Fundamental Prompting Techniques
 
-![](./image_generation/fundamentals1.png)
+![](./fundamentals1.png)
 
 ### 1. Zero-Shot Prompting
 
@@ -415,7 +415,7 @@ Write a 150-word executive summary explaining the ROI of implementing AI-powered
 
 ## Advanced Prompting Strategies
 
-![](./image_generation/funsamentals.png)
+![](./funsamentals.png)
 
 ### Chain of Thought (CoT) Prompting
 
@@ -716,7 +716,7 @@ Context: This is for a {industry} company with {company_size} employees
 
 ## Common Pitfalls and How to Avoid Them
 
-![](./image_generation/CPP.png)
+![](./CPP.png)
 
 ### 1. Ambiguous Instructions
 
@@ -827,7 +827,7 @@ Please include:
 
 ## Testing and Iteration
 
-![](./image_generation/Screenshot%202025-09-17%20at%2017.03.34.png)
+![](./Screenshot%202025-09-17%20at%2017.03.34.png)
 
 ### 1. Create a Testing Framework
 
@@ -1091,8 +1091,8 @@ The future of AI interaction lies in clear, effective communication—and prompt
 
 ---
 
-## The 6-Part Prompting Framework
+## The Second-Part Prompting Framework
 
-Now take your prompting to next level by following this [The 6-Part Prompting Framework](https://github.com/panaversity/learn-low-code-agentic-ai/blob/main/00_prompt_engineering/six_part_prompting_framework.md)
+Now take your prompting to next level by following this [The Second-Part Prompting Framework](./second_part_prompting_framework.md)
 
 
