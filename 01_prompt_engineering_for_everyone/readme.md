@@ -1091,8 +1091,8 @@ The future of AI interaction lies in clear, effective communication—and prompt
 
 ---
 
-## The Second-Part Prompting Framework
+## The Six-Part Prompting Framework
 
-Now take your prompting to next level by following this [The Second-Part Prompting Framework](./second_part_prompting_framework.md)
+Now take your prompting to next level by following this [The Six-Part Prompting Framework](./six_part_prompting_framework.md)
 
 
